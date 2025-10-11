@@ -8,7 +8,7 @@ I’m passionate about building scalable, secure, and resilient cloud-native sol
 
 ## 🔧 Tech Stack & Skills  
 
-- **Cloud Platforms**: AWS (EKS, EC2, S3, IAM, Lambda), Azure (learning in progress)  
+- **Cloud Platforms**: AWS (EKS, EC2, S3, IAM, Lambda), Azure
 - **DevOps Tools**: Docker, Kubernetes, Gitlab, GitHub Actions, Jenkins, Terraform, Ansible  
 - **Programming & Scripting**: Python (automation & infrastructure), Bash, YAML  
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
