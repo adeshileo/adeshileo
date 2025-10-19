@@ -2,7 +2,11 @@
 
 🚀 **DevOps Engineer | Aspiring Solution Architect | Cloud Enthusiast**  
 
-I’m passionate about building scalable, secure, and resilient cloud-native solutions. I specialize in bridging the gap between business needs and technical implementation. My goal is to design architectures that not only solve problems but also enable growth, innovation, and efficiency.  
+I’m a results-driven engineer with a strong foundation in software quality, hands-on DevOps delivery, and an evolving focus on solution architecture.
+
+I started my career ensuring systems were reliable, testable, and aligned with customer needs — then moved into DevOps to streamline CI/CD pipelines, observability, and cloud infrastructure for scalable delivery.
+
+Today, I bridge development, operations, and architecture to design secure, maintainable, and scalable systems that support business agility. Whether it’s improving build automation or contributing to long-term architectural decisions, I focus on building solutions that are robust, efficient, and future-ready.
 
 ---
 
