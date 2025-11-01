@@ -21,26 +21,6 @@ Today, I bridge development, operations, and architecture to design secure, main
 
 ---
 
-## 📂 Featured Projects  
-
-🔹 **[Multi-Currency Payout System (Microservices Architecture)](#)**  
-*Designed a scalable architecture for global payouts with currency conversion, compliance checks, and resilient APIs.*  
-Tech: `Microservices`, `Kafka`, `OAuth`, `Kubernetes`, `AWS`  
-
-🔹 **[CI/CD Pipeline with Kubernetes Deployment](#)**  
-*Built an automated CI/CD pipeline deploying a containerized app to Kubernetes with GitHub Actions & Helm.*  
-Tech: `Docker`, `K8s`, `Helm`, `GitHub Actions`  
-
-🔹 **[Infrastructure as Code with Terraform](#)**  
-*Provisioned AWS infrastructure using Terraform modules for reusability and scalability.*  
-Tech: `Terraform`, `AWS`  
-
-🔹 **[Monitoring & Logging Stack](#)**  
-*Implemented centralized logging and monitoring for a distributed system.*  
-Tech: `Prometheus`, `Grafana`, `ELK`  
-
----
-
 ## 🎓 Certifications  
 
 - ✅ AWS Certified Cloud Practitioner  
