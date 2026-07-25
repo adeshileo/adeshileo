@@ -1,36 +1,88 @@
-# Hi there 👋, I'm Adeshile  
+# Hi there 👋, I'm Adeshile
 
-🚀 **DevOps Engineer | Aspiring Solution Architect | Cloud Enthusiast**  
+🚀 **Platform Engineer | AWS | Terraform | Cloud Infrastructure | DevOps**
 
-I’m a results-driven engineer with a strong foundation in software quality, hands-on DevOps delivery, and an evolving focus on solution architecture.
+I'm a Platform Engineer passionate about building secure, scalable, and reliable cloud platforms that enable engineering teams to deliver software faster.
 
-I started my career ensuring systems were reliable, testable, and aligned with customer needs — then moved into DevOps to streamline CI/CD pipelines, observability, and cloud infrastructure for scalable delivery.
+My journey began in Software Quality Assurance, where I developed a strong understanding of building reliable, user-focused systems. From there, I transitioned into DevOps and Platform Engineering, designing cloud infrastructure, automating deployments, and creating reusable infrastructure that improves developer productivity.
 
-Today, I bridge development, operations, and architecture to design secure, maintainable, and scalable systems that support business agility. Whether it’s improving build automation or contributing to long-term architectural decisions, I focus on building solutions that are robust, efficient, and future-ready.
-
----
-
-## 🔧 Tech Stack & Skills  
-
-- **Cloud Platforms**: AWS (EKS, EC2, S3, IAM, Lambda), Azure
-- **DevOps Tools**: Docker, Kubernetes, Gitlab, GitHub Actions, Jenkins, Terraform, Ansible  
-- **Programming & Scripting**: Python (automation & infrastructure), Bash, YAML  
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
-- **CI/CD & IaC**: GitHub Actions, GitLab CI/CD, Terraform, CloudFormation  
-- **Databases**: PostgreSQL, MySQL, DynamoDB  
+Today I work primarily with AWS, Terraform and CI/CD pipelines, helping teams deploy and manage cloud-native applications through Infrastructure as Code, automation, and platform engineering best practices.
 
 ---
 
-## 🎓 Certifications  
+## ☁️ Core Technologies
 
-- ✅ AWS Certified Cloud Practitioner  
+### Cloud
+- AWS (ECS, EC2, API Gateway, Lambda, IAM, S3, Route53, CloudWatch, SSM Parameter Store, ALB, VPC)
+
+### Infrastructure as Code
+- Terraform
+- CloudFormation
+
+### Containers & Orchestration
+- Docker
+- Kubernetes (Learning)
+- Helm
+
+### CI/CD
+- GitHub Actions
+- GitLab CI/CD
+- Jenkins
+- ArgoCD
+
+### Monitoring & Observability
+- Prometheus
+- Grafana
+- CloudWatch
+- Datadog
+
+### Programming & Scripting
+- Python
+- Bash
+- YAML
+
+### Databases
+- PostgreSQL
+- MySQL
+- DynamoDB
+
+### Version Control
+- Git
+- GitHub
+
 ---
 
+## 📚 Currently Learning
+
+- Advanced AWS Architecture
+- Kubernetes & Platform Engineering
+- System Design
+- Distributed Systems
+- Site Reliability Engineering (SRE)
+
 ---
 
-## 🌐 Connect with Me  
+## 🏆 Certifications
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/adeshile)  
+- ✅ AWS Certified Cloud Practitioner
+- ✅ Kubernetes and Cloud Native Associate Certified
 
 ---
-✨ *“Technology is only powerful when it solves real problems and brings people closer to their goals.”*  
+
+## 🎯 Current Focus
+
+- Building reusable Terraform modules
+- Designing scalable AWS infrastructure
+- Improving CI/CD and deployment automation
+- Learning advanced system design and cloud architecture
+- Preparing for Senior Platform Engineer opportunities
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/adeshile
+
+---
+
+> *"Great platforms are invisible—they empower developers to build faster, operate confidently, and scale without friction."*
