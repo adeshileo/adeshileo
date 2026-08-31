@@ -81,7 +81,7 @@ Today I work primarily with AWS, Terraform and CI/CD pipelines, helping teams de
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/adeshile
+💼 LinkedIn: https://www.linkedin.com/in/adeshile-osunkoya-101269105/
 
 ---
 
