@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Adeshile
 
-🚀 **Platform Engineer | AWS | Terraform | Cloud Infrastructure | DevOps**
+** AWS Platform Engineer | Terraform | Cloud Infrastructure | DevOps **
 
 I'm a Platform Engineer passionate about building secure, scalable, and reliable cloud platforms that enable engineering teams to deliver software faster.
 
